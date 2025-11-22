@@ -1,0 +1,5 @@
+{
+  "name": "Neurify Analyzer",
+  "description": "A neuro-marketing and cognitive science analysis tool that evaluates images for salience, cognitive load, and eye flow patterns.",
+  "requestFramePermissions": []
+}
